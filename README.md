@@ -1,12 +1,13 @@
-# Hey there, I'm Dawit (aka ETdvlpr) 👋  
+# Hey there, I'm David (aka ETdvlpr) 👋  
 **Full-Stack Developer | Flutter Engineer | API Integrator | 🇪🇹 Ethiopian Developer**
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=ETdvlpr&label=Profile%20views&color=0e75b6&style=flat&labelColor=1a1a1a)
-![GitHub followers](https://img.shields.io/github/followers/ETdvlpr?style=social) -->
+![GitHub followers](https://img.shields.io/github/followers/ETdvlpr?style=social) 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Samuel-blue?logo=linkedin&style=flat&labelColor=1a1a1a)
 
 ---
 
+-->
 I'm a Full-Stack Developer based in Ethiopia, Whether it's mobile or web, I build clean, scalable, and human-friendly software that solves real-world problems.
 
 ---
@@ -50,4 +51,4 @@ I'm a Full-Stack Developer based in Ethiopia, Whether it's mobile or web, I buil
 ---
 
 > *“Code locally. Impact globally. And debug like a boss.”*  
-> — Dawit Samuel (`etdvlpr`)
+> - David Samuel (`ETdvlpr`)
